@@ -7,5 +7,4 @@
 
   $user = unserialize($_COOKIE['user']);
 
-
   print_r($user);
